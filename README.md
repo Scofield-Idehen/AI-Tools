@@ -98,3 +98,31 @@ ChatGPT — Versatile AI chat bot
 Bito — AI Coding bot
 AI Code Reviewer — Get your code reviewed
 
+
+
+AI Resume Builders 
+
+1: RESUMAI (https://www.resumai.com)
+Write and edit lightning-fast resume bullet points with cutting-edge A.I
+resumA.I. is a next-generation intelligent resume builder for enabling more effective applications.
+Instantly write hirable content that feels more natural than you could imagine.
+
+KICKRESUME (https://www.kickresume.com)
+Build a beautiful resume with ChatGTP
+Impress your future employer with a perfect resume created in minutes.
+
+
+REZI (https://www.rezi.ai)
+Revolutionize Your Job Search with AI-Powered Resume Writing and Editing.
+REZI does the following:
+- writing,
+- editing,
+- formatting, and optimizing.
+Optimization is key 🔑
+Please explore it.
+
+RESUMAKER (https://resumaker.ai)
+Easy-to-use platform. Create your job-winning resume and start your job search!
+It has got these features
+- built-in AI engine
+- Auto-complete and fill data for you.
